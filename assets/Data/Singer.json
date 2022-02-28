@@ -1,0 +1,16 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name": "حسن زیرک",
+            "image": "assets/icon/singer.png",
+            "items": []
+        },
+        {
+            "id": 2,
+            "name": "عباس کمندی",
+            "image": "assets/icon/singer.png",
+            "items": []
+        }
+    ]
+}

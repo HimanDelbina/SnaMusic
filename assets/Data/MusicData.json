@@ -1,0 +1,76 @@
+{
+    "music": [
+        {
+            "id": 1,
+            "name": "حسن زیرک",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "حسن زیرک",
+                    "musicName": "اره هو لیلی",
+                    "music": "lili.mp3"
+                },
+                {
+                    "id": 2,
+                    "name": "حسن زیرک",
+                    "musicName": "مریم بوکانی",
+                    "music": "maryam.mp3"
+                },
+                {
+                    "id": 3,
+                    "name": "حسن زیرک",
+                    "musicName": "لورکه",
+                    "music": "lorka.mp3"
+                }
+            ]
+        },
+        {
+            "id": 2,
+            "name": "عباس کمندی",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "عباس کمندی",
+                    "musicName": "هوهو کاله به ی",
+                    "music": "hoho.mp3"
+                },
+                {
+                    "id": 2,
+                    "name": "عباس کمندی",
+                    "musicName": "به ینی منو تو",
+                    "music": "bin.mp3"
+                },
+                {
+                    "id": 3,
+                    "name": "عباس کمندی",
+                    "musicName": "نتوری",
+                    "music": "natori.mp3"
+                },
+                {
+                    "id": 4,
+                    "name": "عباس کمندی",
+                    "musicName": "تو چاوت نه یشه",
+                    "music": "chav.mp3"
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "name": "مظهر خالقی",
+            "items": [
+                {
+                    "id": 1,
+                    "name": "مظهر خالقی",
+                    "musicName": "نسیم پاییزی",
+                    "music": "nasim.mp3"
+                },
+                {
+                    "id": 2,
+                    "name": "مظهر خالقی",
+                    "musicName": "ئامینه و نازنینه",
+                    "music": "amine.mp3"
+                }
+            ]
+        }
+    ]
+}

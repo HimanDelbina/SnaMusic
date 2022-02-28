@@ -1,0 +1,24 @@
+{
+    "category": [
+        {
+            "id": 1,
+            "name": "هنرمندان",
+            "image": "assets/icon/singer.png"
+        },
+        {
+            "id": 2,
+            "name": "کیو آر",
+            "image": "assets/icon/qr.png"
+        },
+        {
+            "id": 3,
+            "name": "مراسم",
+            "image": "assets/icon/award.png"
+        },
+        {
+            "id": 3,
+            "name": "پیشنهادات",
+            "image": "assets/icon/email.png"
+        }
+    ]
+}
